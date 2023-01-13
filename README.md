@@ -1,10 +1,6 @@
 # Jatro Tao
 
 <div align=center>
-<img src="https://github.com/Jatro-Tao/Jatro-Tao/raw/main/Image/200-210.gif" width = "300">
-</div>
-
-<div align=center>
 <img src="https://github.com/Jatro-Tao/Jatro-Tao/raw/main/Image/Methane.png" width = "150">
 </div>
 
