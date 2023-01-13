@@ -1,6 +1,12 @@
 # Jatro Tao
 
- <img src="https://github.com/Jatro-Tao/Jatro-Tao/blob/main/Image/Methane.png" width = "200" height = "200" alt="Methane" align=center />
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Jatro-Tao/raw/main/Image/200-210.gif" width = "300">
+</div>
+
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Jatro-Tao/raw/main/Image/Methane.png" width = "150">
+</div>
 
 <!--
 **Jatro-Tao/Jatro-Tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
