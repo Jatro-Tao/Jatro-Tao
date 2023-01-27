@@ -5,6 +5,12 @@
 </div>
 
 <!--
+<div align=center>
+<img src="https://github.com/Jatro-Tao/Jatro-Tao/raw/main/Earth.png">
+</div>
+-->
+
+<!--
 **Jatro-Tao/Jatro-Tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
