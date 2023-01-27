@@ -1,7 +1,7 @@
 # Jatro Tao
 
 <div align=center>
-<img src="https://github.com/Jatro-Tao/Jatro-Tao/raw/main/Image/Methane.png" width = "150">
+<img src="https://github.com/Jatro-Tao/Jatro-Tao/raw/main/Methane_laplacian.png" width = "150">
 </div>
 
 <!--
