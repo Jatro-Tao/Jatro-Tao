@@ -1,4 +1,4 @@
-# Jatro Tao
+# YCYTHU
 
 <div align=center>
 <img src="https://github.com/Jatro-Tao/Jatro-Tao/raw/main/Methane_laplacian.png" width = "150">
